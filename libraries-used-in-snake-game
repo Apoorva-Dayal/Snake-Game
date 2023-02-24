@@ -1,0 +1,7 @@
+import turtle
+import time
+import random
+# time taken for the snake 
+delay = 0.1
+score = 0
+high_score = 0
